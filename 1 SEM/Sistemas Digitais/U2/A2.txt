@@ -1,0 +1,273 @@
+PERGUNTA 1
+Os mapas de Karnaugh constituem em uma ferramenta visual, na forma de uma matriz, para a simplificação de expressões booleanas. Para essa questão, assinale com “V” a(s) afirmativa(s) que você julgar como sendo verdadeira e, com “F”, a(s) falsa(s):
+
+ 
+( ) Mapas de Karnaugh são baseados na soma de produtos.
+( ) Todas as ocorrências do valor “X” (tanto faz), devem fazer parte dos agrupamentos.
+( ) Mapas de Karnaugh servem apenas para expressões de poucas variáveis – ficando inviável a sua manipulação para expressões com 6 ou mais variáveis.
+( ) Cada célula do Mapa de Karnaugh representa uma linha da tabela-verdade.
+
+ 
+Assinale a alternativa que contém a sequência que você julgue ser a correta:
+
+.F ; F; V ; V.
+
+.V ; V; V ; F.
+
+.V ; V; F ; V.
+
+.F ; V; F ; F.
+
+.V ; F; V ; V.
+
+
+PERGUNTA 2
+Para se extrair uma expressão booleana pode-se realizar etapas de modo a obter uma expressão na forma de “soma de produtos” ou na forma de “produto de somas”. Essas duas formas são denominadas como formas padrões de representação de uma expressão booleana. Para essa questão, analise as afirmações a seguir marcando com “V” aquela(s) que você julgue ser verdadeira(s) e, com “F”, a(s) falsa(s).
+
+ 
+( ) Toda expressão obtida pela extração da tabela-verdade é uma expressão canônica e, consequentemente, é passível de simplificação.
+( ) Para obter uma expressão na forma de soma de produtos, deve-se escolher as linhas, na tabela-verdade, que apresentarem o valor “1” na coluna de saída. Caso exista alguma variável de entrada da linha selecionada valendo “0”, esta deverá ser negada.
+( ) Para obter uma expressão na forma de soma de produtos, deve-se escolher as linhas, na tabela-verdade, que apresentarem o valor “0” na coluna de saída. Caso exista alguma variável de entrada da linha selecionada valendo “0”, esta deverá ser negada.
+( ) Cada linha selecionada virará uma parcela da expressão canônica resultante.
+
+ 
+Assinale a alternativa que contém a sequência correta:
+
+.V ; V; F; V.
+
+.V ; F; V; V.
+
+.F ; V; F; V.
+
+.F ; F; V; V.
+
+.V ; V; F; F.
+
+A resposta correta é VVFV.
+
+Nesta questão, trabalhamos com Mintermos e Maxtermos.
+
+Mintermos e Maxtermos Sá úteis para escrever uma sequência lógica de uma forma padronizada.
+
+Os Mintermos têm apenas AND.
+
+Os Maxtermos têm somente OR.
+
+A soma de produtos é a soma de Mintermos onde devemos negar as variáveis zero e manter as variáveis 1.
+
+Se tivermos  escreveremos  antes de jogar este termo na soma (onde ons termos com barra são aqueles que foram negados).
+
+O produto da soma é o produto de Maxtermos.
+
+No produto da soma acontece o contrário. Nós negamos os valores 1 e mantemos os valores zero. Em seguida efetuamos o produto e jogamos para a saída lógica.
+  
+
+PERGUNTA 3
+Suponha a necessidade de se implementar a estratégia de movimentação de um robô móvel. Tal robô apenas se movimenta para frente, para esquerda e direita. A tomada de decisão é feita com base na existência de obstáculos à frente, à esquerda e à direita. Implemente um sistema lógico digital para indicar a direção a ser tomada pelo robô tendo em vista a existência ou não de obstáculos nestas direções. Leve em conta que andar para frente tem prioridade em relação a andar para a esquerda que tem, por sua vez, prioridade em tomar a direção da direita. Quando houver obstáculos em todos os sentidos, o robô deve parar o seu movimento. Para essa questão, suponha que a presença de obstáculo seja indicada pelo valor “1” por intermédio das variáveis: “F” (frente), “D” (direita) e “E” esquerda. Como saída, temos: “AA” (andar adiante), “AD” (andar à direita) e “AE” (andar à esquerda).
+Assinale a alternativa que contenha as expressões relativas às variáveis “AA”, “AD” e “AE”:
+
+.AA = ~F ; AD = F.E.~D ; AE = ~F.E.
+
+.AA = ~F ; AD = ~F.~E.D ; AE = F.~E.
+
+.AA = F ; AD = F.E.~D ; AE = F.~E.
+
+.AA = ~F ; AD = F.E.~E ; AE = F.~D.
+
+.AA = ~F ; AD = F.E.~D ; AE = F.~E.
+1 pontos   
+
+PERGUNTA 4
+Teoricamente, nos sistemas lógicos digitais utilizamos os valores lógicos “0”, “1” e “X”. Porém, na prática, podemos encontrar exemplos de utilização do valor “Z”. Para essa questão, preencha as definições abaixo associando-as com os valores lógicos “0”, “1”, “X” e “Z”:
+
+ 
+( ) Identifica casos nos quais uma certa informação é irrelevante para o resultado da expressão lógica e, consequentemente, para o circuito.
+( ) Geralmente associado à alimentação “+Vcc”.
+( ) Estado de alta impedância.
+( ) Geralmente associado ao “terra” do circuito ( GND – Ground)
+
+ 
+Assinale a alternativa que contenha a sequência correta dos valores lógicos:
+
+.X ; 1; Z ; 0.
+
+.Z ; 1; X ; 0.
+
+.X ; 0; Z ; 1.
+
+.X ; 1; 0 ; Z.
+
+.0 ; Z; 1 ; X.
+1 pontos   
+
+PERGUNTA 5
+Para o processo de simplificação de expressões booleanas, pode-se utilizar o mapa de Karnaugh. Essa técnica consiste em ferramenta visual na forma de uma matriz. Para tanto, deve-se seguir uma sequência de ações. Para essa questão, enumere as etapas a seguir de modo a representar a sequência correta de ações a serem feitas durante a manipulação do mapa de Karnaugh.
+
+ 
+( ) Eliminar as variáveis que apareçam de forma complementada.
+( ) Formar agrupamentos de elementos “1”.
+( ) Transcrever a parcela para a expressão resultante.
+( ) Transcrever os valores “1” da coluna de saída da tabela-verdade.
+
+ 
+Assinale a alternativa que contenha a sequência correta de operações:
+
+.1 ; 4; 2; 3.
+
+.3 ; 4; 2; 1.
+
+.3 ; 2; 4; 1.
+
+.1 ; 2; 4; 3.
+
+.2 ; 3; 4; 1.
+
+Resposta:
+
+Explicação passo-a-passo:
+
+O mapa de Karnaugh é um método gráfico utilizado para melhorar uma equação ou transformar uma tabela verdade em seu circuito lógico correspondente. Existem vários métodos de entrada sendo que, quando acima de 4, o mapa se torna mais complicados e faz-se necessário uma análise através de programas de computador.
+
+Este método pode ser utilizado para circuitos lógicos, abreviação de expressões booleanas, conversão de expressões de diferentes formatos e outros. Faz uso da tabela da verdade, logo, é essencial o conhecimento desta.
+
+São os passos para o mapa:
+
+Fazer o agrupamento de 1 no mapa colocando os 0s em outros quadros;
+
+Agrupar os 1 que não são adjacente a outro número 1;
+
+Agrupar todo o par que tem o número 1;
+
+Agrupar um octeto;
+
+Agrupar um quarteto;
+
+Agrupar qualquer par necessário para todos os números 1 estejam em grupos
+
+Formar e somar o resultado de todos os grupos.
+
+Portanto, a sequência correta é 3 ; 2; 4; 1.
+
+PERGUNTA 6
+Suponha a necessidade de implementar o sistema de controle de atitude do satélite TupiniSat. Controle de atitude de um satélite consiste em deixá-lo, por exemplo, sempre perpendicular à Terra em um satélite geoestacionário. No caso do TupiniSat, é utilizada uma “roda de reação”. Pela lei da física de ação-reação, quando o volante acoplado ao motor acelera a um certo sentido, o satélite acelera no sentido contrário. Para tanto, o valor da posição do satélite em relação ao eixo da Terra é coletado através de um magnetrômetro (mede intensidade de um campo magnético). Suponha que o sinal do magnetrômetro já se encontra condicionado dentro de uma escala de -3 a 3. Faça um circuito para corrigir a atitude do satélite. Para essa questão, suponha que a escala de entrada seja representada pelas variáveis “A”, “B” e “C”. O circuito terá duas variáveis de saída indicando “ativação” (“At” – quando “At” receber “0”, indica sem movimentação) e “sentido” (“S” – para valores negativos na escala, “S” receberá “0” e, para valores positivos, “S” estará sinalizado com “1”. ).
+
+ 
+Assinale a alternativa que contenha as expressões simplificadas de “At” e “S”:
+
+.At = B + C ; S = ~A + ~B.~C.
+
+.At = ~(B + C) ; S = ~A.
+
+.At = B + C ; S = A.
+
+.At = B + C ; S = ~A.
+
+.At = B.C ; S = ~A.
+1 pontos   
+
+PERGUNTA 7
+Quando é necessário implementar o sistema lógico digital com circuitos integrados, temos que nos atentar à várias características as famílias de circuitos integrados existentes para que se faça uma adequação de suas propriedades às nossas necessidades.
+Para essa questão, analise as afirmações a seguir marcando com “V” aquela(s) que você julgue ser verdadeira(s) e, com “F”, a(s) falsa(s).
+
+ 
+( ) Todas as famílias de circuitos integrados possuem as mesmas faixas de alimentação.
+( ) Fan-out representa o número de portas lógicas que podem ser conectadas à saída de uma porta lógica.
+( ) Cada família de circuito integrado possui a sua faixa de tensões para representar os níveis lógicos “0” e “1”.
+( ) Cada família de circuitos integrados possui a sua própria pinagem.
+
+ 
+Assinale a alternativa que contém a sequência correta:
+
+.V ; F ; F ; F.
+
+.F ; V ; V ; V.
+
+.F ; V ; V ; F.
+
+.F ; V ; F ; V.
+
+.F ; F ; V ; V.
+1 pontos   
+
+PERGUNTA 8
+Suponha que você foi incumbido de implementar um circuito de aviso da não colocação do conto de segurança em um carro. Para tanto, neste caso, o circuito analisará apenas o assento do motorista ativando a saída apenas quando o carro estiver ligado, o motorista estiver sentado no banco e o cinto não estiver colocado. Para essa questão, use como variáveis: “L” para o carro ligado, “M” para o motorista e “C” para o cinto.
+Assinale a alternativa que contenha expressão que represente o circuito:
+
+.S = L + P + ~C.
+
+.S = L.P.~C.
+
+.S = L.P.C.
+
+.S = ~L.P.~C.
+
+.S = L.~P.C.
+1 pontos   
+
+PERGUNTA 9
+Considere uma votação de 4 juízes (A, B, C e D). O juiz A tem direito a voto de minerva (em caso de empate, ele decide). Faça um circuito que apresente, como saídas, a a votação a favor por unanimidade (“FU”), decisão a favor pela maioria “FM” (> 50% de votos a favor), uma decisão contrária por unanimidade (“CT”) ou uma decisão contrária por maioria (“CM”) (> 50% de votos contrários). Para essa questão, considere como “1” o valor associado aos votos favoráveis e as saídas ativadas no nível 1.
+Assinale a alternativa que contenha as expressões simplificadas de “FU” e “FM”:
+
+.FU = A.B.C.D ; FM = A.B.C + A.~B.D + A.C.~D + ~A.B.C.D.
+
+.FU = ~(A.B.C.D) ; FM = A.B.~C + A.~B.D + A.C.~D + ~A.B.C.D.
+
+.FU = A.B.C.D ; FM = A.B.~C + A.~B.D + A.C.~D + ~A.B.C.D.
+
+.FU = A.B.C.D ; FM = A.B.~C + A.B.D + A.C.~D + ~A.B.C.D.
+
+.FU = A.B.C.D ; FM = A.B.~C + A.~B.D + A.C.D + ~A.B.C.D.
+
+c) .FU = A.B.C.D ; FM = A.B.~C + A.~B.D + A.C.~D + ~A.B.C.D.
+
+Para a resolução da questão, é preciso considerar que a vitória por unanimidade é representada por FU e a vitória por maioria é representada por FM. De forma que na vitória por unanimidade, a totalidade das pessoas deve votar a favor, de forma que:
+
+FU = A.B.C.D
+
+Para a vitória por maioria, mas sem ser por unanimidade, três podem votar a favor, ou dois (incluindo A) podem então votar a favor, de forma que:
+
+FM=A.B.C.∼D+A.B.∼C.D+A.∼B.C.D+∼A.B.C.D+A.∼B.C.∼D+A.B.∼C.∼D+A.∼B.∼C.D+A.B.∼C.∼D+A.∼B.∼C.D+A.∼B.C.∼D
+
+Ao juntar todos os termos, temos que:
+
+FM = A.B.∼C.(D+∼D)+A.∼B.(C+∼C).D+A.(B+∼B).C.∼D+∼A.B.C.D
+
+Então é preciso simplificar as três primeiras linhas e também fazer o rearranjamento da última:
+
+FM = A.B.∼C+A.∼B.D+A.C.∼D+∼A.B.C.D
+
+
+PERGUNTA 10
+Suponha a necessidade de automatizar o jogo do “pedra, papel e tesoura”. O número de participantes será de 2 jogadores. A cada partida, cada jogador escolherá secretamente pedra, papel ou tesoura como sua opção. O vencedor é definido segundo a seguinte regra:
+
+ 
+Pedra vence tesoura, pois amassa a tesoura.
+Tesoura vence papel, pois corta o papel.
+Papel vence pedra, pois embrulha a pedra.
+Toda vez que os dois jogadores optarem pelo mesmo objeto, ocorre um empate.
+
+
+ 
+Para denotar a pedra, o papel ou a tesoura, suponha que cada jogador será representado por dois bits “A1”/“B1” e “A2”/”B2”, onde:
+
+ 
+Ai=0 e Bi=0 → pedra
+Ai=0 e Bi=1 → papel
+Ai=1 e Bi=0 → tesoura
+
+
+ 
+Como saída do circuito, teremos dois bits: “V1” e “V2”. Tais variáveis indicam se o vencedor 1 ou o vencedor 2 foi o vencedor da rodada, respectivamente. Caso haja empate, ambas as variáveis de saída permanecerão com o nível “0”.
+
+ 
+Assinale a alternativa que contenha as expressões simplificadas de “V1” e “V2”:
+
+.V1 = ~A1.B1.A2 + B1.~A2.~B2 + A1.B2 ; V2 = A1.~A2.~B2 + ~A1.~B1.B2 + B1.A2.
+
+.V1 = ~A1.~B1.A2 + B1.~A2.~B2 + A1.B2 ; V2 = A1.~A2.~B2 + ~A1.~B1.B2 + B1.A2.
+
+.V1 = ~A1.~B1.A2 + B1.~A2.~B2 + A1.B2 ; V2 = A1.~A2.~B2 + ~A1.B1.B2 + B1.A2.
+
+.V1 = ~A1.~B1.A2 + B1.A2.B2 + A1.B2 ; V2 = A1.~A2.~B2 + ~A1.~B1.B2 + B1.A2.
+
+.V1 = ~A1.~B1.A2 + B1.~A2.~B2 + A1.B2 ; V2 = A1.~A2.~B2 + A1.B1.B2 + B1.A2.
