@@ -1,0 +1,22 @@
+PERGUNTA 1
+
+Latches e flip-flops são componentes básicos dos sistemas lógicos sequênciais. A função deles consiste em armazenar um bit de informação. No mercado, podemos encontrar diversas implementações de latches e de flip-flops, tais como “RS” e “D”. Para essa questão, descreva a tabela-verdade relativo aos latches e flip-flops tipo “RS” e abstraia os conceitos relacionados respondendo às seguintes questões:
+
+1) Quais os estados que não podem ocorrer nas entradas dos latches e flip-flops “RS”? Esses estados são diferentes quando usamos lógica positiva ou lógica negativa?
+
+2) Qual a diferença entre os latches e flip-flops tipo “RS” em relação ao tipo “D”?
+
+3) Qual a diferença básica entre latches e flip-flops?
+
+
+Tabela verdade "RS" lógica positiva	|	Tabela verdade "RS" lógica negativa
+R	S	Q	Q~	|	R	S	Q	Q~
+0	0	Q	Q~	|	0	0	****	****
+0	1	1	0	|	0	1	0	1
+1	0	0	1	|	1	0	1	0
+1	1	****	****	|	1	1	Q	Q~
+
+
+1-) Resposta: Na lógica Positiva, quando o sitema é composto por portas lógicas NOR, os estados de entrada (R e S) não podem ser 1 e 1, pois desta maneira há uma indeterminação na saída. Já na lógica negativa, quando o sistema é composto por portas NAND, os estados de entrada (R e S) não podem ser 0 e 0 , acontece a indeterminação da mesma forma.
+2-) Resposta: O Flip-Flop e latch do tipo D implementa na saída Q o que estiver setado na entrada D (data), independentemente se setado a entrada enable mais de uma vez, o sinal que estiver colocado em D continuará na saída, ou seja, este circuito de armazenamento de dados, resolve o problema de inderteminação dos circuitos RS,
+3-) Resposta: A diferença básica entre eles está em sua ativação, os Latches permanecem ativos enquanto o sinal de habilitar estiver ativo, já os flip-flops são ativados nas mudanças de nível lógico na entrada, nas chamadas bordas de subida e descida, ou rampa, que são originadas de um clock.
