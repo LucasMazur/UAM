@@ -1,0 +1,13 @@
+massa da agua 9,76g
+massa da proveta 33,41g
+massa da proveta com 15ml de agua 48,32g
+temperarura = 20
+magua = maprovetaagua - mproveta
+magua = 14,91g
+massa bequer 50ml 37,99
+massa bequer 15ml de agua 53,18
+magua = 15,19g
+dproveta = 0,994
+dbequer = 1,012
+
+comprovante de entrega de atividade bfcd57d7-2ad7-405c-b56b-b32c71817500
