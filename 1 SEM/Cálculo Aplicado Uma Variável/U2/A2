@@ -1,0 +1,208 @@
+    Numa avaliação, um professor solicitou que os alunos encontrassem a derivada da seguinte função racional polinomial: . Chamou a atenção do professor a resolução do aluno Paulo, que derivou a função uma vez e fez as afirmações descritas nas asserções I e II, a seguir.
+     
+    A partir do apresentado, analise as asserções I e II  e a relação proposta entre elas.
+     
+    I. A derivada da função é  igual
+    Pois:
+    II. para derivar nesse caso é necessário usar a regra do quociente.
+     
+    A seguir, assinale a alternativa correta.
+    	
+    	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+    	
+    	A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.
+    	
+    	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+    	
+    	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+    	
+    	As asserções I e II são proposições falsas.
+     
+
+Resposta: 
+
+
+
+
+Pergunta 2
+
+    Para derivar a função , é necessário conhecer a derivada da função tangente e a regra da cadeia, pois essa função é uma composição da função tangente, polinomial e potência. Assim, inicialmente, deve-se aplicar a derivada da função potência, depois da função tangente e, por fim, a função polinomial.
+     
+     Nesse sentido, assinale a alternativa que indique qual o valor de
+    	
+    	
+
+    	
+    	
+
+    	
+    	
+
+    	
+    	
+
+
+     
+
+1 pontos  
+Pergunta 3
+
+    Para derivar funções, é necessário saber como derivar as funções elementares, que são tabeladas, e  também as regras operatórias: soma, produto e quociente. Para derivar a função , é necessário conhecer a derivada da função exponencial, logarítmica e a regra do quociente. Nesse sentido, assinale a alternativa que determine o valor de
+    	
+    	
+    	
+    	
+    	
+    	.
+    	
+    	.
+    	
+    	.
+     
+
+1 pontos  
+Pergunta 4
+
+    Para derivar funções, é necessário conhecer e saber utilizar as suas regras operatórias: deriva da soma entre duas funções, derivada do produto entre duas ou mais funções, derivada do quociente entre duas funções, derivada da cadeia, para derivar as funções constantes. Neste contexto, associe tais regras com suas fórmulas:
+     
+    1 - Derivada do Produto.
+    2 - Derivada do Quociente.
+    3 - Derivada da Soma.
+    4 - Derivada da Cadeia.
+     
+    ( )
+    ( )
+    ( )
+    ( )
+     
+    A partir das relações feitas anteriormente, assinale a alternativa que apresenta a sequência
+    correta.
+    	
+    	3, 1, 2, 4.
+    	
+    	1, 2, 3, 4.
+    	
+    	4, 3, 2, 1.
+    	
+    	2, 3, 1, 4.
+    	
+    	3, 1, 4, 2.
+
+1 pontos  
+Pergunta 5
+
+    Em relação à derivada de uma função, podemos classificá-la da seguinte forma:  funções contínuas não deriváveis, funções contínuas, que só admitem até 1ª derivada, funções contínuas, que só admitem até 2ª derivada e assim sucessivamente até a função de classe . Toda função polinomial racional é uma função de classe , ou seja admite as derivadas de todas as ordens.
+    LIMA, E. L. Curso de análise. 9. ed. Rio de Janeiro: IMPA, 1999. v. 1.
+     
+    Nesse contexto, encontre a derivada da função , sabendo que , e assinale a alternativa que indique qual é o resultado obtido para .
+    	
+    	
+     
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+
+1 pontos  
+Pergunta 6
+
+    As derivadas das funções elementares podem ser obtidas através dos resultados tabelados. Os resultados da tabela foram obtidos através do limite por definição da derivada. Assim, é importante conhecer as derivadas das funções elementares para derivar funções com maior facilidade.
+    A respeito das derivadas de funções elementares, considere  e analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+    I. (  ) Se , então .
+    II. (  ) Se , então
+    III. (  ) Se , então .
+    IV. (  ) Se  então .
+     
+    Assinale a alternativa que apresenta a sequência correta.
+    	
+    	F, V, F, V.
+    	
+    	F, F, F, F.
+    	
+    	V, F, V, F.
+    	
+    	V, V, F, F.
+    	
+    	V, V, V, V.
+
+1 pontos  
+Pergunta 7
+
+    A derivada de uma função aplicada a um ponto P é igual ao coeficiente angular da reta tangente à curva  no ponto P. Sendo assim, é possível encontrar as equações da reta tangente e da reta normal . Nesse contexto, encontre as equações da reta tangente e da reta normal à curva , no ponto e analise as afirmativas a seguir.
+     
+    I. A equação da reta tangente é igual a
+    II. A equação da reta normal é igual a  
+    III. O coeficiente angular da reta normal é o valor inverso do coeficiente angular da reta normal.
+    IV. A derivada da função é igual à , portanto, o coeficiente angular da reta normal é igual a .
+     
+    Está correto o que se afirma em:
+    	
+    	II, III e IV, apenas.
+    	
+    	II e III, apenas.
+    	
+    	I, II e IV, apenas.
+    	
+    	I e IV, apenas.
+    	
+    	I, II e III, apenas.
+
+1 pontos  
+Pergunta 8
+
+    As funções trigonométricas possuem características próprias, tornando-as funções de grande complexidade. Portanto, derivar essas funções a partir da definição de derivadas por limites, torna-se um trabalho árduo. Assim, a tabela de derivadas inclui fórmulas para derivar, também, as funções trigonométricas.
+     
+    A respeito das derivadas de funções trigonométricas, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+     
+    I. (  ) .
+    II. (  ) .
+    III. (  ) .
+    IV. (  )
+     
+    Assinale a alternativa que apresenta a sequência correta.
+    	
+    	F, V, F, V.
+    	
+    	V, V, V, V.
+    	
+    	F, F, F, F.
+    	
+    	V, F, F, V.
+    	
+    	V, V, F, F.
+
+1 pontos  
+Pergunta 9
+
+    Na maioria das vezes, ao calcular o limite de uma função racional polinomial, pode ocorrer indeterminação matemática do tipo 0/0. Nesse caso, para determinar o limite, devemos fatorar as funções racionais polinomiais utilizando a fatoração do polinômio que, em certas situações, é um cálculo muito simples.
+    Nesse contexto, encontre o limite   e assinale a alternativa que indique qual é o resultado obtido para o limite.
+    	
+    	2.
+    	
+    	0.
+    	
+    	-2.
+    	
+    	4.
+    	
+    	-4.
+
+1 pontos  
+Pergunta 10
+
+    O estudante de uma universidade, para ter acesso ao seu armário, precisa de um código com 4 dígitos. O professor disponibilizou o código da seguinte forma: 1º dígito: , em que , 2º dígito: , em que , 3º dígito: , em que , 4º dígito: , em que  Para descobrir qual é o código, encontre o valor das derivadas.
+    Nesse sentido, assinale a alternativa que indique o código do armário do estudante.
+    	
+    	2, 1, 2, 4.
+    	
+    	3, 1, 1, 4.
+    	
+    	2, 1, 1, 4.
+    	
+    	2, 1, 1, 5.
+    	
+    	1, 2, 1, 4. 

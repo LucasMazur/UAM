@@ -1,0 +1,318 @@
+ Pergunta 1
+
+    Analise o diagrama de fases do sistema chumbo-estanho (determinado a pressão constante) a seguir:
+     
+
+    Fonte:  Adaptado de CALLISTER Jr., W.D. Fundamentos da Ciência e Engenharia de Materiais. 7ª Ed. Editora LTC. Rio de Janeiro, 2006, p 255.
+     
+     
+    Considerando o diagrama apresentado e a microestrutura nos diferentes pontos, analise as afirmativas a seguir.
+     
+        O ponto 1 apresenta apenas uma fase líquida e pode ser representada pela figura abaixo:
+
+     
+        O ponto 2 apresenta duas fases, alfa e líquida, e pode ser representada pela figura abaixo :
+
+        O ponto 5 apresenta duas fases, beta e líquida, e pode ser representada pela figura abaixo:
+
+        O ponto 6 apresenta uma microestrutura compostas por parte eutética e outra parte pela fase beta primária.
+
+     
+    Está correto o que se afirma em:
+    	
+    	II, III e IV, apenas.
+    	
+    	II e III, apenas.
+    	
+    	I, II e III, apenas.
+    	
+    	III e IV, apenas.
+    	
+    	I, II, e IV, apenas.
+
+Resposta: I, II e IV
+
+
+Pergunta 2
+
+    A lei de Hooke, equação importante para o âmbito de projetos, consiste em uma relação entre tensão e a deformação de engenharia para uma deformação exclusivamente elástica. O módulo de elasticidade, também conhecido como módulo de  Young,  representa a constante de proporcionalidade dessa equação.
+     
+    A partir do apresentado, analise as asserções a seguir e a relação proposta entre elas.
+     
+    I. Quanto maior a magnitude do módulo de elasticidade, mais rígido será o  material, ou menor será a deformação elástica resultante da aplicação de uma dada tensão.
+     
+    Pois
+     
+    II. A grandeza do módulo de elasticidade é uma variável de resistência à separação de átomos circunvizinhos, ou seja, das forças de ligação interatômicas, não sendo este parâmetro  alterado com o aumento de temperatura.
+     
+    A seguir, assinale a alternativa correta:
+    	
+    	As asserções I e II são proposições falsas.
+     
+     
+     
+    	
+    	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+    	
+    	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+    	
+    	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+    	
+    	A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa.
+
+Resposta: E - A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa.
+
+A asserção I é verdadeira. A equação que representa o módulo de elasticidade é representada por:
+
+E = σ/∈
+
+Onde:
+
+E é o módulo de Young .
+
+σ é o estresse uniaxial, ou força uniaxial por superfície unitária .
+
+∈ é a deformação, ou deformação proporcional (mudança no comprimento dividido pelo comprimento original); é adimensional.
+
+Essa equação nos mostra que, quanto maior a magnitude do módulo de elasticidade, mais dificuldade o material terá para este sofrer alguma deformação, ou seja, menor será sua deformação elástica resultante da aplicação de uma certa tensão.
+
+A asserção II é falsa. O módulo de Young ou da elasticidade dos metais tende a variar com a temperatura e pode ser realizado através da mudança na ligação interatômica dos átomos e, sendo assim, sua alteração é considerada dependente da mudança na função de trabalho do metal, ou seja, tem uma relação intrínseca com a temperatura e o trabalho interno realizando. De uma forma inversamente proporcional, à medida que a temperatura aumenta, o módulo da elasticidade ou de Young diminui.
+
+
+Pergunta 3
+
+    Você foi chamado para avaliar dois materiais para a construção de uma mola. Esses materiais, denominados A e B, possuem as seguintes propriedades mecânicas: material A, o limite de elasticidade ocorre para uma deformação de 0,01 (u.a), e o módulo de elasticidade é 1000 MPa; material B, o limite de elasticidade ocorre para uma deformação de 0,05 (u.a), e o módulo de elasticidade é 200 MPa. Ambos os materiais evidenciam um comportamento linear-elástico até o limite de elasticidade (limite de proporcionalidade). Nesse sentido, assinale a alternativa que estime qual o material em que a mola terá a maior capacidade de armazenar energia:
+    	
+    	B, que é capaz de armazenar uma energia de magnitude 100.000 J/m3.
+    	
+    	A, que é capaz de armazenar uma energia de magnitude 1.250.000 J/m3.
+    	
+    	B, que é capaz de armazenar uma energia de magnitude 20.000  J/m3 .
+    	
+    	A, que é capaz de armazenar uma energia de magnitude 5.000.000 J/m3.
+    	
+    	B, que é capaz de armazenar uma energia de magnitude 250.000 J/m3.
+     
+     
+
+Resposta: E
+
+
+Pergunta 4
+
+    A transformação de fase é bem útil desde tempos remotos. Sabe-se que o imperador romano Júlio César já afirmava, em 55 a.C, que os guerreiros se defrontavam com um problema em seus armamentos. Decorrido um tempo de uso, as espadas entortaram e eles precisavam interromper as lutas para consertar suas armas de ferro. Os romanos, por outro lado, já haviam descoberto que o ferro se tornava mais duro quando aquecido durante longo tempo e resfriado, logo em seguida, em uma salmoura.
+     
+    Com relação a transformação de fase de uma liga de ferro com 0,4% de carbono, analise as afirmativas a seguir e assinale V para a(s) Verdadeira(s) e F para a(s) Falsa(s).
+                                                   
+        (  ) Com o auxílio de um microscópio metalográfico, é possível identificar dois constituintes da estrutura do aço: grãos claros, chamados perlita (CCC), e grãos escuros, chamados ferrita.
+        (  ) O aço, ao ser aquecido, pode passar por diversas transformações, no qual a região denominada zona crítica gráfica é a área em que as células unitárias de CCC são transformadas em CFC.
+        (  ) A austenita se forma na estrutura do aço submetido a temperaturas elevadas. Encontra-se na região acima da zona crítica, zona de austenização. Esta, por sua vez, tem a estrutura cúbica de face centrada e apresenta menor resistência mecânica e boa tenacidade.
+        (  ) Se o aço for resfriado abruptamente (por exemplo, com a água), ele irá se transformar numa estrutura chamada martensita, um constituinte duro que não pode ser formado em resfriamentos lentos.
+
+     
+    Assinale a alternativa que apresenta a sequência correta:
+    	
+    	V, V, V, F.
+    	
+    	F, V, V, V.
+     
+     
+    	
+    	F, V, F, V.
+    	
+    	V, V, F, F.
+    	
+    	F, V, V, F.
+
+Resposta: FVVV
+
+
+Pergunta 5
+
+    O ensaio de dureza é um ensaio utilizado com maior frequência que qualquer outro ensaio mecânico, devido ao fato de ser simples, barato e  não destrutivo. Uma aplicação curiosa são as brocas de perfuração de petróleo que são feitas de diamante para a perfuração do solo com o intuito de se chegar em uma área de armazenagem natural de petróleo. Com relação ao ensaio de dureza, assinale a alternativa correta:
+    	
+    	A dureza do diamante não é a mesma do grafite, pois as microestruturas são diferentes, onde o diamante tem uma estrutura mais resistente a deformações plásticas localizadas.
+    	
+    	A dureza, embora seja um ensaio importante, é um ensaio meramente qualitativo.
+    	
+    	No ensaio de dureza, embora existam muitas técnicas existentes, as mais comuns são a Rockwell e de Hooke.
+    	
+    	A broca pode ser confeccionada com diamante pois a dureza do mesmo consegue ter uma grande resistência à deformações elásticas localizadas.
+    	
+    	Apesar das diferentes conceituações existes, a mais aceita é que a dureza é a medida de energia absorvida até a fratura do material.
+
+Resposta: A
+
+ A dureza do diamante não é a mesma do grafite, pois as microestruturas são diferentes, onde o diamante tem uma estrutura mais resistente a deformações plásticas localizadas.
+
+O diamante e o grafite, embora sejam alótropos do carbono, possuem propriedades muito diferentes. A broca é confeccionada com diamante, pois este material propiciará uma maior resistência a deformação plástica localizada, mantendo a sua integridade. Portanto, é ideal para perfurações. 
+
+ 
+Pergunta 6
+
+     A maioria das estruturas é projetada para certificar que ocorra apenas deformação elástica quando uma tensão for submetida. Uma estrutura ou componente que tenha sido deformado plasticamente, ou que tenha sofrido mudança permanente em sua forma, pode não ser capaz de funcionar como planejado pela equipe de engenharia. Torna-se, por conseguinte, desejável conhecer o nível de tensão no qual tem início a deformação plástica, ou no qual ocorre o fenômeno chamado escoamento.
+     
+     
+
+    Fonte: Autoria própria
+     
+    A respeito do ensaio de tração mostrado no gráfico tensão-deformação, analise as afirmativas a seguir e assinale V para a(s) Verdadeira(s) e F para a(s) Falsa(s).
+     
+        ( ) O ponto A é conhecido como o escoamento do material e há diferença física entre o corpo de prova com relação ao ponto B.
+        ( ) O ponto C corresponde ao limite de resistência à tração.Se essa tensão for aplicada e mantida, ocorrerá a fratura do corpo de prova.
+        ( ) O ponto C apresenta constrição ou empescoçamento e a lei de Hooke é válida apenas até esse ponto, conhecido como “ponto máximo”.
+        ( ) Entende-se por resistência à fratura o correspondente à tensão no ponto D, isto é, ponto em que ocorrerá a ruptura do corpo de prova.
+
+     
+     Assinale a alternativa que apresenta a sequência correta:
+    	
+    	F, V, F, V.
+    	
+    	V, V, V, F.
+    	
+    	F, V, V, V.
+    	
+    	F, V, V, F
+     
+    	
+    	V, V, F, F.
+
+Resposta: A
+
+ 
+Pergunta 7
+
+    Analise o gráfico a seguir:
+     
+
+    Fonte: Autoria própria (2019).
+     
+    É um dever do engenheiro familiarizar-se com as diferentes propriedades mecânicas, saber as dimensões e o significados dessas propriedades. Desse modo, esse conhecimento será necessário para o projeto de estruturas e componentes que utilizem materiais previamente determinados, a fim de que não ocorram níveis inaceitáveis de deformação e/ou falhas.
+     
+    Considerando o gráfico tensão deformação, analise as afirmativas a seguir e assinale V para a(s) Verdadeira(s) e F para a(s) Falsa(s).
+     
+        (  ) O material C possui uma maior tensão de ruptura do que o material B.
+        ( ) O eixo das abscissas é adimensional, ao passo que o eixo das ordenadas representa-se por MPa.
+        ( ) A lei de Hooke é válida para todos os três materiais até o limite de proporcionalidade;
+        (  ) O módulo de elasticidade do material A é maior do que o módulo de elasticidade do material C. A, então, poderia ser um material cerâmico, enquanto que C poderia ser um alumínio (metálico).
+
+     
+    Assinale a alternativa que apresenta a sequência correta:
+    	
+    	F, V, V, V.
+    	
+    	V, V, F, F.
+    	
+    	F, V, V, F
+     
+     
+     
+    	
+    	V, V, V, F.
+    	
+    	F, V, F, V.
+
+Resposta: A
+
+ 
+Pergunta 8
+
+    No princípio do século XX, o conceito de luz foi incorporado definitivamente à luz. Por conseguinte, possibilitou-se o desenvolvimento do conhecimento sobre estruturas cristalinas mediante a utilização de técnicas de difração de raio-X. Estas técnicas possibilitam a obtenção de informações relevantes para a caracterização dos materiais. A figura abaixo mostra o funcionamento de um tubo de raio-X.
+     
+     
+
+    Fonte:  Hmilch (2008). Disponível em: <  https://commons.wikimedia.org/wiki/File:Roentgen-Roehre.svg >. Acesso em: 09 fev. 2020.  
+     
+     
+    A partir do exposto, analise as asserções a seguir e a relação proposta entre elas.
+     
+        Com a utilização dessa técnica, pode-se obter informações acerca das dimensões das células unitárias, presença de defeitos e orientação da rede cristalina.
+
+     
+    Porque
+     
+        Uma vez que o feixe incida sobre um conjunto de átomos ordenados (estrutura amorfa), se este feixe monocromático tiver comprimento de onda com valor semelhante aos espaçamentos entre tais átomos, então ocorrerá apenas interferências destrutivas.
+
+     
+     A seguir, assinale a alternativa correta:
+    	
+    	A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa.
+    	
+    	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+    	
+    	As asserções I e II são proposições falsas.
+     
+     
+    	
+    	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+    	
+    	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+
+Resposta: A
+
+A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa
+
+pois os raios x fazem parte do espectro da radiação eletromagnética, assim como as ondas de rádio ,microondas,infravermelho e etc.Este ensaio por suas vez , consiste em uma técnica útil de caracterização dos materiais para o âmbito da engenharia .
+
+
+  
+Pergunta 9
+
+    Em projetos de engenharia, ao se deparar com uma situação em que pilares são submetidos a esforços de compressão, faz-se necessário que o engenheiro avalie a flambagem. A flambagem ocorre quando a peça sofre uma flexão transversalmente em decorrência de uma compressão axial. Esta, por sua vez, é considerada uma instabilidade elástica. Se pegarmos uma régua, por exemplo, e submetermos a tensões de compressão, a depender da régua ela poderá flambar apresentando uma encurvadura. 
+     
+
+    Fonte: Adaptada de Olga Popova / 123RF.
+     
+    Acerca desse ponto, assinale a alternativa correta:
+    	
+    	Os parâmetros mais importantes para a flambagem são a tensão no ponto de proporcionalidade e o limite de ruptura do material.
+    	
+    	A flambagem pode ocorrer não somente em ensaios de compressão, mas também em ensaios de tração.
+    	
+    	A tensão crítica para a ocorrência da flambagem não depende da tensão de escoamento do material, mas sim do seu módulo de Young e do seu comprimento.
+     
+    	
+    	A falta de homogeneidade e retilineidade da peça pode influenciar significativamente na flambagem, mas esses fatores não decorrem do processo de fabricação da mesma.
+    	
+    	A flambagem depende de três principais fatores: ductilidade, tenacidade e do módulo de Young.
+
+Resposta: 
+
+
+
+ 
+Pergunta 10
+
+    Analise o diagrama a seguir:
+     
+     
+
+    Fonte: Autoria própria (2019)
+     
+    Os diagramas de tensão x deformação são úteis para os engenheiros, pois através deles é possível extrair informações relevantes acerca do comportamento dos materiais. Considere que a curva mostrada  na figura corresponde à  curva de tensão versus
+    deformação de engenharia de um aço comumente empregado nas construções.
+     
+     Analise as afirmações a seguir:
+     
+        A área associada a letra K é representa o módulo de resiliência.
+        O ponto I representa o limite de resistência à tração (LR), e após esta tensão começa o fenômeno da estricção.
+        A letra F representa a tensão de escoamento ou limite de escoamento.
+        A tenacidade pode ser representada pela soma das áreas K, L, M e N, e representa a energia.
+
+     
+    Está correto o que se afirma em:
+    	
+    	I e II, apenas.
+    	
+    	I, II, III e IV.
+    	
+    	II, apenas.
+    	
+    	II e IV, apenas.
+    	
+    	II, III e IV apenas.
+    	
+Resposta: 
+
+

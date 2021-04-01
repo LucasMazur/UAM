@@ -1,0 +1,256 @@
+Pergunta 1
+    Na eletrônica digital, os componentes básicos dos sistemas lógicos sequenciais são chamados de “ latches” e “ flip-flops”. Tais componentes são capazes de armazenar um bit de informação e podem integrar os circuitos registradores e contadores binários. Sabe-se que existem vários modelos de latches e flip-flops, dentre os quais podemos destacar “RS”, “D”, “JK” e “T”.
+    Para essa questão, vamos nos concentrar no tipo “JK” e analisar as seguintes combinações para os valores de “J” e de “K”:
+    (I) J = 0 ; K = 0.
+    (II) J = 1 ; K = 0.
+    (III) J = 1 ; K = 1.
+    (IV) J = 0 ; K = 1.
+
+     
+    Qual é a sequência correta dos valores a serem obtidos na saída Q do flip-flop “JK”?
+    	
+    	Qt; 0; ~Qt; 1.
+    	
+    	Qt; 1; ~Qt; 0.
+    	
+    	~Qt; 1; Qt; 0.
+    	
+    	Qt; 0; 1; ~Qt.
+    	
+    	0; ~Qt; 1; Qt.
+
+Resposta:
+
+A sequência correta dos valores a serem obtidos na saída Q do flip-flop “JK” é a seguinte: Q t ; 1; ~Q t ; 0. Letra B.
+
+É preciso destacar que o flip-flop “JK” apresenta um comportamento de uma maneira bem parecida com o flip-flop “RS”, onde o “ J” é equivalente ao terminal “ SET” e, o “ K” apresenta a funcionalidade do terminal “ RESET”.
+
+A eletrônica digital se caracteriza pelo fato dos componentes básicos dos sistemas lógicos sequenciais que recebem a denominação de “latches” e “ flip-flops”. Tais componentes possuem a capacidade de armazenamento de um bit de informações. 
+
+
+Pergunta 2
+
+    Contadores assíncronos podem estar presentes em várias aplicações práticas. Imagine que há a necessidade de se implementar um circuito para informar ao usuário a quantidade de batidas de seu coração por minuto. Esse circuito deve atualizar o display somente após o final de cada minuto, ou seja, ao final de cada minuto, a contagem deverá ser reiniciada para que, após o próximo minuto, o valor do display possa ser atualizado com a nova marcação.
+    Para a implementação do circuito, suponha que você possui os seguintes componentes:
+    I. Transdutor pressão-elétrico: esse componente transforma uma variação de pressão em um sinal elétrico. No nosso caso, será acoplado junto ao corpo do usuário para que, a cada batimento do coração, ele forneça um pulso (sinal já condicionado), ou seja, os níveis de tensão e de corrente já se encontram calibrados para a pronta utilização no circuito a ser implementado.
+    II. Oscilador com pulso a cada minuto: esse circuito emitirá um pulso a cada minuto.
+    III. Registrador: esse componente é capaz de armazenar uma palavra de N bits. Suponha que a quantidade N de bits seja suficiente para a sua aplicação.
+    IV. Contador assíncrono de N bits. Suponha que a quantidade N de bits seja suficiente para a sua aplicação. Esse contador apresenta um pino de “ reset”, quando referenciado com “1”, o valor da contagem é reiniciado com “0”.
+    V. Decodificadores e display de 7 segmentos. A quantidade de decodificadores e displays disponíveis são suficientes para exibir um número de três dígitos.
+    VI. Portas lógicas diversas.
+    Agora, faça a relação entre os componentes de modo que as interconexões permitam a implementação do circuito de monitoramento de batimentos cardíacos.
+    	
+    	I → clock de III; II → clock de III; II → reset de IV; III → V. As portas lógicas servem para sincronizar o momento da carga do registrador com o reset do contador.
+    	
+    	I → clock de IV; II → clock de III; II → reset de IV; III → V; IV → III. As portas lógicas servem para sincronizar o momento da carga do registrador com o reset do contador.
+    	
+    	I → clock de IV; II → clock de III; II → reset de IV; IV → V; IV → III. As portas lógicas servem para sincronizar o momento da carga do registrador com o reset do contador.
+    	
+    	I → IV; II → clock de III; I → reset de IV; III → V; IV → III. As portas lógicas servem para sincronizar o momento da carga do registrador com o reset do contador.
+    	
+    	I → IV; IV → clock de III; II → reset de IV; III → V; IV → III. As portas lógicas servem para sincronizar o momento da carga do registrador com o reset do contador.
+
+
+Resposta: B
+
+
+Pergunta 3
+
+    Na informática, adota-se o formato binário de representação numérica devido aos possíveis estados de um bit: 0 ou 1. Porém, dentro da representação binária, podemos encontrar vários formatos, dentre os quais destacamos as representações Gray, Johnson e o “2 entre 5”. Particularmente em relação ao código Gray, podemos mencionar que sua principal característica consiste na variação de apenas 1 bit de seus valores entre as linhas subsequentes. Para essa questão, implemente um contador Gray de 3 bits, utilizando um contador síncrono. Manipulando 3 bits (“A”, “B” e “C”), a contagem será: 000, 001, 011, 010, 110, 111, 101, 100.
+    Assinale a alternativa que contém os valores dos terminais “J” e “K” correspondentes ao bit menos significativo (bit “C” - bit mais à direita).
+    	
+    	JC = A XNOR B; KC = A XOR B.
+    	
+    	JC = A XOR B; KC = A XNOR B.
+    	
+    	JC = A XOR B; KC = A XOR B.
+    	
+    	JC = A XNOR B; KC = A XNOR B.
+    	
+    	JC = A + B; KC = A + B.
+
+
+Resposta: D
+
+Explicação: Se o atraso na comutação de um gatilho for 30 ns, ao construir um contador de acordo com o esquema com uma transferência sequencial de mais de quatro bits operando no código binário usual, quando os pulsos de contagem forem 120 ns ou menos, as falhas de contagem começarão, a transferência não terá tempo para se propagar pela cadeia de gatilhos antes da chegada da próxima contagem impulso.
+
+Em medidores com transferência paralela para as entradas de informações dos gatilhos, são fornecidos sinais que são uma função lógica do estado do contador e determinam gatilhos específicos que devem mudar de estado com um determinado pulso de entrada.
+
+O princípio do bloqueio é o seguinte: um gatilho altera seu estado quando um próximo pulso de sincronização é passado, se todos os gatilhos anteriores estavam no estado de uma unidade lógica.
+
+Os contadores paralelos têm uma velocidade mais alta em comparação aos sequenciais, uma vez que a função lógica do estado atual do contador e o pulso de contagem são alimentados às entradas de comutação de todos os gatilhos ao mesmo tempo.
+
+Pergunta 4
+
+    Um valor numérico binário pode ser expresso por diversas formas. Dentre as formas mais conhecidas, podemos citar: codificação “Gray”; codificação “Johnson”; e codificação “Excesso 3”. Em relação à codificação Johnson, podemos realizar sua contagem por intermédio de um registrador de deslocamento em anel torcido. Porém, essa não é a única maneira, ou seja, podemos realizar a contagem Johnson também por meio de um contador binário síncrono. Para essa questão, imagine uma contagem Johnson de apenas 3 bits (“A”, “B” e “C” – em que o bit “C” é o menos significativo). Nesse caso, teremos a seguinte contagem: 000 → 001 → 011 → 111 → 110 → 100 → volta ao estado inicial “000”.
+    Selecione a alternativa que contém as expressões corretas dos circuitos combinacionais relativos aos terminais “J” e “K” do flip-flop correspondente ao bit “C” (menos significativo).
+    	
+    	JC = A.B; KC = ~A.~B.
+    	
+    	JC = ~A.~B; KC = ~A.B.
+    	
+    	JC = A.~B; KC = A.B.
+    	
+    	JC = ~A+~B; KC = A+B.
+    	
+    	JC = ~A.~B; KC = A.B.
+
+
+Resposta:
+
+A opção correta nesse caso será - J C = ~A+~B; K C = A+B . Como o flip-flop é composto por um circuito lógico e possui uma função de armazenamento de dados, o flip-flop é frequentemente usado como, por exemplo, um circuito que constitui um dispositivo de armazenamento de um computador, ou seja, uma SRAM. Fornece uma operação de atualização regular para evitar a perda de dados devido à descarga espontânea do capacitor quando comparada à DRAM, que é um sistema de armazenamento que usa o estado de carga de um capacitor (também chamado de capacitor) em vez de um circuito lógico. Como não é necessário, é possível o acesso simples e de alta velocidade à área de armazenamento. No entanto, o número de transistores por bit e sua fiação são mais complexos que a DRAM, portanto, o custo por bit é alto. Portanto, a alternativa correta é a alternativa D. 
+
+Pergunta 5
+
+    Circuitos contadores binários assíncronos podem ser utilizados para gerar formas de onda. Para tanto, conecta-se os seus terminais de saída a um componente denominado “conversor digital-analógico” (DAC - Digital-analogic Converter). Um DAC é capaz de receber, em suas entradas, uma palavra digital e convertê-la para um sinal analógico. Assim, sua saída terá uma variação de voltagem correspondente ao valor binário digital inserido em sua entrada. [image]
+    Na figura a seguir temos, em (a) uma onda “dente de serra” obtida a partir de um contador assíncrono crescente. Em (b), a onda “dente de serra” é gerada utilizando-se um contador assíncrono decrescente. Em (c), temos a figura de uma onda “triangular”.
+
+     
+
+    Fonte: elaborada pelo autor, 2019.
+
+
+     
+    Analise as afirmativas a seguir e assinale com “V” as verdadeiras e com “F” a(s) falsa(s).
+    ( ) Um gerador de onda triangular pode ser obtido com um contador do tipo crescente/decrescente, cuja funcionalidade varia automaticamente.
+    ( ) Não é possível implementar um gerador de onda triangular utilizando-se contadores binários assíncronos. Devem ser usados apenas contadores binários síncronos.
+    ( ) A funcionalidade crescente/decrescente pode ser trocada automaticamente por meio da utilização de um flip-flop do tipo “JK”, com os seus terminais “J” e “K” conectados aos nível lógico “1”. O clock do flip-flop “JK” é obtido quando a contagem chegar ao seu valor limite (por exemplo, em um contador de 3 bits, valor 7 na contagem crescente e valor 0 na decrescente).
+    ( ) A funcionalidade crescente/decrescente pode ser trocada automaticamente por meio da utilização de um flip-flop do tipo “JK”, com os seus terminais “J” e “K” conectados aos nível lógico “1”. O clock do flip-flop “JK” é obtido utilizando-se um outro contador que gera um pulso toda vez que o seu bit mais significativo realizar a transição de “1” para “0”, ou seja, quando a contagem for reiniciada.
+    Assinale a alternativa que traz a sequência correta.
+    	
+    	F; F; V; V.
+    	
+    	V; F; F; V.
+    	
+    	V; F; V; F.
+    	
+    	F; V; F; F.
+    	
+    	V; F; V; V.
+
+RESPOSTA: VFVV
+
+ 
+Pergunta 6
+
+    Dentro dos circuitos lógicos sequenciais, podemos encontrar os contadores assíncronos. Contadores assíncronos são circuitos capazes de realizar uma contagem crescente ou decrescente em que a variação dos valores de contagem é realizada mediante o pulso de um sinal de clock . Sua implementação poderá ser realizada pela utilização de flip-flops tipo “JK” ou flip-flops tipo “T”. Analise as afirmativas a seguir e assinale com “V” as verdadeiras e com “F” a(s) falsa(s).
+    ( ) Contadores assíncronos permitem apenas contagens em que os elementos contados são subsequentes, ou seja, o novo valor representa o acréscimo ou decréscimo de uma unidade a cada pulso de clock .
+    ( ) Contadores assíncronos podem apresentar valores errôneos transientes de contagem, que duram enquanto as transições dos sinais de clock estiverem sendo realizadas.
+    ( ) Contadores assíncronos possuem a implementação mais complexa em relação aos contadores síncronos.
+    ( ) Para realizar a contagem decrescente, basta usar a lógica positiva para o sinal do clock .
+    Agora, assinale a alternativa com a sequência correta.
+    	
+    	V; F; V; V.
+    	
+    	V; F; F; V.
+    	
+    	V; V; F; V.
+    	
+    	F; V; F; F.
+    	
+    	F; F; V; V.
+
+Resposta: V; V; F; V.
+
+A única errada é " Contadores assíncronos possuem a implementação mais complexa em relação aos contadores síncronos." pois é o contrário, uma vez que nos contadores assíncronos basta relacionar as saídas dos flip-flops com o clock dos flip-flops seguintes.
+
+
+Pergunta 7
+
+    Contadores binários são circuitos capazes de oferecer, em sua saída, uma sequência numérica. Essa contagem pode ser linear (números subsequentes: crescentes ou decrescentes) caso o contador a ser implementado seja assíncrono ou síncrono ou, ainda, pode ser não linear, caso seja implementado um contador síncrono. Uma das aplicações mais naturais dos contadores consiste na construção de relógios e cronômetros.
+    Suponha que você necessite implementar um cronômetro. Para tanto, esse cronômetro deve possuir dois botões: o de reiniciação (para zerar o valor da contagem) e o de “pausa / recomeço”. Este último, quando pressionado (quando a contagem estiver em curso), faz com que a contagem seja interrompida, e, ao ser pressionado novamente, faz com que a contagem seja retomada.
+    Analise as afirmativas a seguir.
+    I. O botão de reiniciação servirá para jogar um pulso de reset ao contador, e também a um flip-flop “JK”, cuja função é sinalizar o botão “pausa / recomeço”.
+    II. O botão de reiniciação servirá para introduzir o valor lógico “0” em várias portas “AND”, sendo que cada uma delas terá uma entrada conectada ao botão de reiniciação e outra conectada à saída “Q” do flip-flop correspondente. Assim, a saída do cronômetro estará valendo “0”.
+    III. O botão “pausa / recomeço” tem a função de jogar um pulso ao clock de um flip-flop “JK”. A saída desse flip-flop estará conectada à entrada de uma porta “AND”, cuja entrada estará ligada ao clock do circuito (que produzirá a frequência de contagem do cronômetro). A saída dessa porta “AND” será conectada à entrada do clock do contador.
+    IV. O botão “pausa / recomeço” tem a função de jogar o valor lógico “1” ao terminal “J” de um flip-flop “JK”. Nesse caso, o terminal “K” estará permanentemente conectado ao “terra” (GND) do circuito. A saída desse flip-flop estará conectada à entrada de uma porta “AND”, cuja entrada estará ligada ao clock do circuito (que produzirá a frequência de contagem do cronômetro). A saída dessa porta “AND” será conectada à entrada de clock do contador.
+    Agora, assinale a alternativa que traz apenas a(s) afirmativa(s) correta(s).
+    	
+    	II e III.
+    	
+    	I e IV.
+    	
+    	I e II.
+    	
+    	I e III.
+    	
+    	II e IV.
+
+Resposta: I e III
+
+ 
+Pergunta 8
+
+    Um relógio digital pode ser implementado utilizando-se um conjunto de contadores assíncronos. Cada contador fica incumbido por um dígito do relógio, por exemplo, unidade e dezena dos segundos, unidade e dezena dos minutos e unidade e dezena das horas. Imagine que você tem a necessidade de implementar um relógio digital cujas horas variam de 00 até 23.
+    Analise as proposições a seguir.
+    I. O clock para as unidades das horas é proveniente do sinal de reset do módulo responsável pela contagem da dezena dos minutos. E o clock para as dezenas nas horas é proveniente do sinal de reset do contador relacionado à unidade das horas.
+    II. O clock para as unidades das horas é proveniente do sinal de reset do módulo responsável pela contagem da dezena dos horas. E o clock para as dezenas nas horas é proveniente do sinal de reset do contador relacionado à dezena das horas.
+    III. Para o sinal de reset do contador relativo à unidade das horas, deverão ser testadas duas situações: caso a dezena das horas tiver os valores 0 ou 1, o reset da unidade deve ocorrer após o valor 9. Caso contrário, o reset da unidade das horas deverá ser acionado no momento 3.
+    IV. Para o sinal de reset do contador relativo à unidade das horas, deverão ser testadas duas situações: caso a dezena das horas tiver os valores 0 ou 1, o reset da unidade deve ocorrer após o valor 9. Caso contrário, o reset da unidade das horas deverá ser acionado no momento 4.
+    Agora, assinale a alternativa que traz apenas a(s) afirmativa(s) correta(s).
+    	
+    	I e II.
+    	
+    	II e IV.
+    	
+    	I e III.
+    	
+    	I e IV.
+    	
+    	II e III.
+
+Resposta I e IV
+
+
+Pergunta 9
+
+    Suponha que você tem que implementar um circuito para controlar o acendimento dos LEDs de um giroflex de uma viatura oficial (como um carro de polícia, uma ambulância ou um veículo do corpo de bombeiros). Assim, projete um circuito para controlar o conjunto de LED S, de modo que se tenha a sequência de acendimentos a seguir:
+
+      [image]
+
+    Fonte: Elaborada pelo autor, 2019.
+
+
+     
+    Na figura acima, temos, inicialmente, apenas os LEDs das extremidades acesos e os demais apagados. Sabendo-se que esse projeto pode ser desenvolvido com contadores síncronos, para essa questão, desenvolva as expressões relativas aos terminais “J” e “K” do primeiro LED (o LED mais à esquerda). Lembrando que os dois lados são simétricos, ou seja, temos dois conjuntos simétricos de quatro LEDs cada. Assim, o acendimento do último LED corresponderá ao acendimento do primeiro, o penúltimo corresponde ao segundo e assim por diante. Suponha que os LEDs sejam denominados “A”, “B”, “C” e “D” e associados à saída “Q” do flip-flop correspondente do contador síncrono. Imagine que o circuito já é iniciado no estado correspondente à primeira linha da figura.
+    Assinale a alternativa que contém as expressões de “J” e “K” do LED mais à esquerda do giroflex apresentado.
+    	
+    	J = A.~B.~C.D; K = A.~B.~C.~D.
+    	
+    	J = ~A.~B.~C.D; K = A.~B.~C.D.
+    	
+    	J = ~A.~B.~C.D; K = A.B.~C.~D.
+    	
+    	J = ~A.~B.C.D; K = A.~B.~C.~D.
+    	
+    	J = ~A.~B.~C.D; K = A.~B.~C.~D.
+
+
+Resposta:
+
+Pergunta 10
+
+    Contadores binários assíncronos são componentes capazes de realizar uma contagem linear crescente ou decrescente, sendo que os valores pertencentes à contagem são subsequentes ao valor atual. Várias aplicações podem ser implementadas levando-se em conta a utilização dos contadores assíncronos, dentre as quais podemos citar os divisores de frequência. Divisores de frequência são circuitos capazes de gerar um pulso que representa o sinal de clock dividido por um fator pré-determinado.
+    A partir dessa lógica, analise as afirmativas a seguir.
+    I. O valor da divisão é consequência do tamanho da palavra manipulada pelo contador, ou seja, é consequência da quantidade de flip-flops utilizados no contador.
+    II. O valor da divisão de frequência é condicionado ao limite da contagem. O pulso de “reset” da contagem representa o próprio valor da divisão do contador.
+    III. O pulso de reset da contagem é obtido por intermédio do produto canônico do valor limite, acrescentado de uma unidade.
+    IV. O pulso de “reset” da contagem é obtido por intermédio do produto canônico do valor limite.
+    Agora, assinale a alternativa que traz apenas a(s) afirmativa(s) correta(s).
+    	
+    	I, II e III.
+    	
+    	I e IV.
+    	
+    	II e III.
+    	
+    	II e IV.
+    	
+    	III e IV. 
+    	
+Resposta: II e III
+
+
+
+
+
