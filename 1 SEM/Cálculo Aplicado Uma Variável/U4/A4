@@ -1,0 +1,272 @@
+ Pergunta 1
+
+    O cálculo de área de regiões planas é possível por meio do cálculo integral definido. Entre as regiões, podemos encontrar o valor exato da área de regiões limitadas por duas curvas, como, por exemplo, a região limitada simultaneamente pelas curvas e . Nesse sentido, encontre a área proposta, usando como suporte o gráfico da figura a seguir, e assinale a alternativa correta.
+     
+    Figura 4.1 - Região limitada pelas funções e  
+     
+     
+    Fonte: Elaborada pela autora.
+     
+     
+    	
+    	.
+    	
+    	.
+    	
+    	.
+     
+     
+    	
+    	.
+    	
+    	.
+    	
+Resposta A
+
+
+Pergunta 2
+
+    É possível, por meio a análise gráfica, identificar pontos importantes para determinar a lei que rege a função do gráfico em estudo. Para tanto, é necessário identificar o tipo de função elementar. Além disso, é possível identificar ferramentas de suporte para o cálculo da área de regiões planas limitadas pelo gráfico da função e pelos eixos coordenados.
+
+    Fonte: Elaborada pela autora.
+     
+    Considerando o contexto apresentado e utilizando como suporte a figura anterior, analise as afirmativas a seguir e assinale V para a(s) Verdadeira(s) e F para a(s) Falsa(s)
+     
+    I. ( ) A equação da parábola é dada por  .
+    II. (  ) A área da região hachurada é igual a 
+    III. (  ) a área da região interna da parábola é igual a
+    IV. (  ) A área hachurada no primeiro quadrante é igual a
+     
+    Assinale a alternativa que apresenta a sequência correta.
+     
+     
+    	
+    	F, V, F, V.
+    	
+    	F, V, V, V.
+    	
+    	V, F, F, F.
+    	
+    	F, V, V, F.
+     
+     
+    	
+    	V, F, V, F.
+
+Resposta E
+
+
+Pergunta 3
+
+     Sabendo-se que a distância percorrida por uma partícula em um dado instante é a medida sobre a trajetória descrita no movimento, o seu valor depende da trajetória. Com essa informação, resolva a seguinte situação-problema.
+     
+    Considere a função velocidade  de uma partícula que se desloca ao longo de uma reta, em que a velocidade é expressa em metros por segundo e o tempo em segundos. Utilize o gráfico da figura a seguir como suporte para ajudar na resolução da questão.  Nesse contexto,  analise as asserções a seguir e a relação proposta entre elas.
+     
+
+    Fonte: Elaborada pela autora.
+     
+    I. A distância percorrida da partícula do tempo inicial  até   é igual a 100 m.
+    Pois:
+    II. A distância percorrida é igual a área da região hachurada do gráfico da Figura 7.
+     
+    A seguir, assinale a alternativa correta.
+     
+    	
+    	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+    	
+    	A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa.
+    	
+    	As asserções I e II são proposições falsas.
+     
+     
+     
+    	
+    	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+    	
+    	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa  da I.
+
+Resposta A
+
+
+Pergunta 4
+
+    Uma partícula move-se em uma linha reta, segundo a equação horária do movimento  em metros,  em segundos, velocidade instantânea  e aceleração . Conhecendo-se a função velocidade, é possível determinar as funções espaço-tempo (s) e a função aceleração por meio do cálculo diferencial e integral. Nesse contexto, considere a função  e seu gráfico como suporte (figura a seguir) e  analise as afirmativas a seguir.
+
+    Fonte: Elaborada pela autora.
+     
+    I. Sabendo que  e  quando , a equação de s em função do tempo é dada por .
+    II.  O deslocamento da partícula é igual entre o tempo  e , se, para , é igual a integral
+    III. A função aceleração da partícula no instante inicial é igual a .
+    .IV. A distância percorrida pela partícula é igual ao seu deslocamento entre os instantes  e , em que  .
+     
+    É correto o que se afirma em:
+     
+    	
+    	II e III, apenas.
+    	
+    	I e II, apenas.
+    	
+    	I, II e IV, apenas.
+     
+    	
+    	II, III e IV, apenas.
+    	
+    	I, II e III, apenas.
+
+Resposta: D
+
+
+Pergunta 5
+
+    Arquimedes (287-212 a. C.), inventor, engenheiro militar, médico e o maior matemático dos tempos clássicos no mundo ocidental, descobriu que a área sob um arco parabólico é dois terços da base vezes a altura. Além disso, o cálculo da área também pode ser calculado por meio da integral definida.
+     
+    Considerando o contexto apresentado e utilizando como suporte a figura a seguir, analise as afirmativas e assinale V para a(s) Verdadeira(s) e F para a(s) Falsa(s)
+
+    Fonte: Elaborada pela autora.
+     
+    I. ( ) A área limitada pela curva  e o eixo x pode ser calculada por meio da integral , e seu valor é igual à
+    II. (  ) A altura do arco (ver Figura) é dada por 
+    III. (  ) Segundo Arquimedes, a área do arco parabólico é igual a dois terços da base b vezes a altura h do arco, portanto, a área é igual à
+    IV. (  ) A área hachurada no primeiro quadrante é igual
+     
+    Assinale a alternativa que apresenta a sequência correta.
+     
+     
+    	
+    	F, V, V, V.
+    	
+    	F, V, V, F.
+    	
+    	V, V, F, F.
+    	
+    	V, V, V, F.
+    	
+    	F, V, F, V.
+
+Resposta B
+
+
+Pergunta 6
+
+    O método de substituição de variável é um método que nem sempre pode ser aplicado para resolver integrais de funções não elementares. Para tanto, deve-se, inicialmente, verificar se o método é aplicável e fazer a escolha para mudança de variável convenientemente. Assim, avalie a escolha correta para aplicar esse método para resolver a integral e assinale a alternativa correta.
+     
+     
+     
+    	
+    	.
+     
+    	
+    	
+    	
+    	.
+    	
+    	.
+    	
+    	.
+
+Resposta E
+
+
+Pergunta 7
+
+    O conceito da primitiva de uma função está interligado à definição de integral indefinida, assim como ao conceito de derivada de uma função. A integral indefinida de uma função é igual a uma família de primitivas. Apenas usando esse conceito é possível determinar a função integranda. Assim, considere as função e , contínuas, e analise suas derivadas ou integrais em relação à variável x. Nesse contexto, analise as asserções a seguir e a relação proposta entre elas.
+     
+    I.  é primitiva da função .
+    Pois:
+    II. .
+     
+    A seguir, assinale a alternativa correta.
+     
+     
+    	
+    	As asserções I e II são proposições falsas.
+    	
+    	A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa.
+    	
+    	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+    	
+    	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa  da I.
+    	
+    	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+Resposta E
+
+
+Pergunta 8
+
+    Dadas as curvas  e e as retas verticais  e , é necessário verificar qual dessas funções está limitando a região superiormente. Observe a região limitada ao gráfico da figura abaixo, que serve como suporte para o cálculo da área dessa região. Nesse sentido, encontre a área proposta e assinale a alternativa correta.
+     
+    Figura 4.2 - Região limitada pelas funções e e a reta
+     
+     
+    Fonte: Elaborada pela autora.
+     
+     
+    	
+    	.
+    	
+    	.
+    	
+    	.
+    	
+    	.
+    	
+    	.
+
+Resposta E
+
+  
+Pergunta 9
+
+    Dada a integral indefinida , verifique que a função integranda é um produto entre uma função polinomial e a função seno. No entanto, sabemos que só é possível integrá-la pelo método por substituição de variável se conseguirmos fazer uma escolha adequada.  Nesse sentido, resolva a integral e assinale a alternativa correta.
+     
+     
+    	
+    	.
+    	
+    	.
+    	
+    	.
+    	
+    	.
+    	
+    	.
+     
+     
+
+Resposta E 
+
+
+Pergunta 10
+
+    Considere o gráfico da função , mostrado na figura abaixo, que servirá de suporte para resolução da questão. Verifique a região sombreada no gráfico e determine os pontos de interseção do gráfico da função com o eixo x. Avalie também de que forma é possível calcular a área limitada por integração.
+     
+    Figura 4.3 - Região limitada pela função e o eixo x
+     
+
+    Fonte: Elaborada pela autora.
+     
+    Considerando o contexto apresentado, sobre cálculo de área e integrais definidas, analise as afirmativas a seguir.
+     
+    I. A integral definida .
+    II. A área hachurada no gráfico abaixo do eixo x é igual a
+    III. Os pontos de interseção da curva e o eixo x são .
+    IV. A área limitada pela curva  e o eixo x ao 1º quadrante é igual a u.a.
+     
+    É correto o que se afirma em:
+    	
+    	I, II e IV, apenas.
+     
+     
+     
+    	
+    	I, III e IV, apenas.
+    	
+    	II e IV, apenas.
+    	
+    	II, III e IV, apenas.
+    	
+    	I e II, apenas. 
+    	
+Resposta B
+

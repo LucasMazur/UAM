@@ -12,7 +12,9 @@
     	
     	O conteúdo informado condiz com o título e a aceleração é uniforme nos períodos mencionados.
 
-1 pontos  
+Resposta: A
+
+
 Pergunta 2
 
     Analise a figura a seguir:
@@ -42,7 +44,11 @@ Pergunta 2
     	
     	V, F, V, V, V.
 
-1 pontos  
+Resposta: V, V, F, V, V.
+
+Explicação passo-a-passo:  As raízes correspondem aos valores de x tal que f(x) = 0. Então, conforme o gráfico, {-3, -2, 3, 2} compõem as raízes da função. Se  são as raízes de uma função, essa pode ser expressa . Portanto,  é uma função contínua cujo domínio e imagem são reais. Como f(x) = f(-x)  a função é simétrica em relação ao eixo e, portanto, é par.
+
+ 
 Pergunta 3
 
     Um polinômio pode ser expresso pela forma , N. Para n = 0, n = 1 ou n = 2, as expressões são capazes de descrever grandezas importantes de um MUV (Movimento Uniformemente Variado). Essas grandezas também podem ser expressas em forma gráfica. Desse modo, analise os gráficos a seguir:
@@ -62,7 +68,18 @@ Pergunta 3
     	
     	O gráfico III.
 
-1 pontos  
+Resposta correta. C
+
+A alternativa está corret a, pois as grandezas, 
+em forma polinomial, são de grau zero, um  ou dois. 
+Correspondem a um valor constante ou possuem relação linear 
+ou quad rática com a variável x. Os gráficos c orrespondentes são 
+em forma de uma reta paralela ao  eixo horizontal, uma reta 
+crescente ou decrescente ou um arco de  parábola. As variáveis 
+são identificadas,  consecutivamente, à aceleração, à velocidade e 
+aos espaços. 
+
+ 
 Pergunta 4
 
     Algumas vias de trânsito rápido possuem retornos construídos entre as pistas opostas. Esses retornos possuem uma faixa adicional, à esquerda, para desaceleração, seguida por uma curva em semicírculo e, após, uma faixa de aceleração antes que os motoristas retornem à via na pista oposta. Considere que um motorista imprima somente aceleração ou desaceleração de módulo constante durante o retorno e analise os gráficos a seguir:
@@ -81,7 +98,9 @@ Pergunta 4
     	
     	O gráfico III.
 
-1 pontos  
+Resposta: D
+
+ 
 Pergunta 5
 
     Em problemas de otimização, buscamos encontrar os pontos ótimos, ou seja, os mínimos ou máximos. No caso da função quadrática, o ponto máximo ou mínimo é o vértice da parábola. Para uma função que representa o lucro de uma empresa, há interesse no valor máximo, para uma função que representa a quantidade de material num processo de manufatura, buscaria-se o valor mínimo.
@@ -106,7 +125,14 @@ Pergunta 5
     	
     	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
 
-1 pontos  
+Resposta: E
+
+Resposta correta. A alternativa está correta, pois de fato, funções quadráticas possuem
+grácos parabólicos e somente um ponto de máximo ou de mínimo. Nesses pontos a variação
+da função é nula e pode ser determinada pelo cálculo da derivada  . A função
+integral de f(x) é identicada como a área sob a curva do gráco.
+
+
 Pergunta 6
 
     Analise o gráfico a seguir:
@@ -134,7 +160,9 @@ Pergunta 6
     	
     	I, III e IV, apenas.
 
-1 pontos  
+Resposta B
+
+ 
 Pergunta 7
 
     Aviões possuem características que diferem de um modelo para outro e, por sua vez, necessitam que aeroportos possuam requisitos mínimos para recebê-los. Ao ler as instruções de operação de um modelo novo, um piloto averigua que, em solo, o avião é capaz de acelerar a até 4 m/s 2 . Para decolar com os tanques cheios ele necessita atingir a velocidade de 360 km/h. Nesse sentido, assinale a alternativa que indique, respectivamente,  qual o comprimento mínimo necessário às pistas de decolagem dos aeroportos para que ele consiga realizar o procedimento e, qual é o tempo necessário para essa decolagem:
@@ -150,7 +178,17 @@ Pergunta 7
     	
     	2500m e 25s.
 
-1 pontos  
+Resposta C
+
+Sua resposta está incorreta. A alternativa está incorreta, pois 
+segundo a Equação de Torricelli,  , em que v = 360 km/h = 
+100 m/s, a  = 4m/s 2 e    porque a decolagem inicia-se do 
+repouso. A extensão mínima necessária à pista é     = 1.250 
+m. E, pela função horária da velocidade de um MUV,  , então 
+100 = 4t e t = 25 s é o tempo necessário para a aeronave atingir a
+velocidade de decolagem.
+
+
 Pergunta 8
 
     Um trem do metrô parte de uma estação e imprime aceleração constante durante 10 segundos. Depois mantém a velocidade constante por 15 segundos quando, então, inicia desaceleração por outros 10 segundos. Essa desaceleração também é constante até atingir a estação seguinte e possui o mesmo módulo da etapa inicial. Se a distância entre as estações é D, assinale a alternativa que indique qual a velocidade máxima atingida pelo trem:
@@ -165,7 +203,9 @@ Pergunta 8
     	
     	D/70
 
-1 pontos  
+Resposta D
+
+ 
 Pergunta 9
 
     Analise a figura a seguir:
@@ -195,7 +235,9 @@ Pergunta 9
     	
     	F, F, F, F.
 
-1 pontos  
+Resposta: A
+
+
 Pergunta 10
 
     Analise a figura a seguir:
@@ -219,3 +261,5 @@ Pergunta 10
     	I, II, III e IV, apenas
     	
     	II, III e IV, apenas 
+    	
+  Resposta D

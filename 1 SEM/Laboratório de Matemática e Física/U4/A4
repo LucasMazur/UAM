@@ -1,0 +1,279 @@
+ Pergunta 1
+
+    Considere um quadrado de vértices A, B, C e D. Inscrito a essa figura, há um losango de vértices E, F, G e H, sendo que esses coincidem com os pontos médios das arestas do quadrado. O ponto O é a interseção das diagonais do losango. Um vetor que porventura tenha origem no ponto I e término em J é representado por .
+     
+
+    Fonte: Elaborada pelo autor.
+    A partir do exposto, analise as afirmativas a seguir e assinale V para a(s) verdadeiras e F para a(s) falsa(s).
+    I. (  )    .
+    II. (  )   //
+    III. (  )  .  
+    IV. (  )   .
+    A seguir, assinale a alternativa que apresenta a sequência correta.
+    	
+    	V, V, F, V.
+    	
+    	F, V, V, V.
+    	
+    	V, F, V, V.
+    	
+    	V, V, V, V.
+    	
+    	V, V, V, F.
+
+Resposta E
+
+Sua respost a es tá i nc orreta.  Jus t ifi cat iva:  Dois  vet ores,   para  serem  equi valentes  entre  si,
+nec es s itam  poss uir mes mo m ódul o,  direção e  sentido.  As s im,   O  é  ponto  médi o  do
+s egmento  e  .  Como E FGH  é um  paralelogramo,  as  ares t as   opos tas  s ão
+paralelas  entre  si  e E H  //  GF.  O  paralelogramo E FGH  também  é quadrado  e  as   diagonai s
+de  um  quadrado  são ort ogonais  entre  si.   Por  iss o  .   As  ares t as  opos tas  de um
+paralelogramo  es tão orient adas   na m es ma direç ão  e  poss uem  a mes ma m edida.  Todavia,
+os  vetores      e    poss uem  s entidos  opost os  e,  portanto,  s ão vetores  dis tint os .
+
+ 
+Pergunta 2
+
+    Os vetores ,  e , na figura a seguir, podem ser indicados  = (16, 30 o ) em coordenadas polares, ou  = (10, 0) e  = (-25, 30) em coordenadas cartesianas. Suponha que eles representem deslocamentos consecutivos de um corpo, , a partir do ponto de origem (0, 0).
+     
+    Fonte: Elaborada pelo autor.
+     
+    Assinale a alternativa que indica a posição final do corpo.
+    	
+    	(-15+8, 38).
+    	
+    	(-15, 30).
+    	
+    	(1, 60).
+    	
+    	(-7, 30+8).
+    	
+    	(-1, 60).
+     
+
+Rsposta A
+
+ 
+Pergunta 3
+
+    Em um plano, a posição de um ponto P pode ser definida por meio de um par ordenado de valores do tipo (x, y) em um sistema de coordenadas cartesianas. Outra possibilidade é determinar a posição do ponto P pela distância r em relação à origem O e pelo ângulo  que a reta que une a origem O ao ponto P define com um dos eixos cartesianos. Essa representação, expressa ( , ), é denominada coordenadas polares.
+     
+    Fonte: Elaborada pelo autor.
+     
+    A partir das descrições apresentadas, analise as afirmativas a seguir e assinale V para a(s) verdadeiras e F para a(s) falsa(s).
+    I. (  ) .
+    II. (  ) .
+    III. (  ) .
+    IV. (  ) .
+     
+    A seguir, assinale a alternativa que apresenta a sequência correta.
+    	
+    	V, V, F, F.
+    	
+    	V, F, F, F.
+    	
+    	V, V, V, F.
+    	
+    	F, F, F, F.
+     
+    	
+    	V, V, V, V.
+
+Resposta E
+
+ 
+Pergunta 4
+
+    Pela geometria euclidiana, três pontos distintos, P, Q e R, definem um plano, e suas coordenadas coincidem com os vértices de um triângulo. Além disso, o produto  é definido  em que  é valor do ângulo entre os vetores. Considere os pontos de coordenadas seguintes em um sistema de eixos cartesianos: A(6, 9, 3), B(6, 3, -3) e C(6, 6, -6).
+    Com base no exposto, analise as asserções a seguir e a relação proposta entre elas.
+    I. Os pontos A, B e C definem um triângulo retângulo.
+    PORQUE
+    II. O produto escalar .
+     
+    A seguir, assinale a alternativa correta.
+    	
+    	As asserções I e II são proposições falsas.
+    	
+    	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+    	
+    	A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.
+    	
+    	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+    	
+    	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+Resposta D
+
+
+Pergunta 5
+
+    Suponha que uma partícula P desenvolve movimento circular cujo módulo da velocidade seja constante). O deslocamento ocorre em torno da origem O de um sistema de coordenadas cartesiano. O vetor   = (r x , r y ) indica a posição de P, e A, B, C e D são quatro pontos da trajetória que coincidem com os eixos x ou y. O ponto E da trajetória coincide com a bissetriz do quarto quadrante).
+     
+    Fonte: Elaborada pelo autor.
+     
+    A partir do exposto, analise as afirmativas a seguir e assinale V para a(s) verdadeiras e F para a(s) falsa(s).
+    I. (  ) Nas posições B ou D, as componentes verticais r y do vetor posição possuem os maiores módulos.
+    II. (  ) Nas posições A ou C, as componentes horizontais v x do vetor velocidade possuem os menores módulos.
+    III. (  ) Na posição E, as componentes vertical r x e horizontal r y
+    do vetor posição possuem o mesmo  módulo.
+    IV. (  ) Nas posições A, B, C, D e E, os vetores aceleração de P possuem o mesmo módulo.
+    A seguir, assinale a alternativa que apresenta a sequência correta.
+    	
+    	V, F, F, F.
+    	
+    	V, V, V, F.
+    	
+    	F, F, F, F.
+    	
+    	V, V, F, F.
+    	
+    	V, V, V, V.
+
+Resposta E
+
+
+Pergunta 6
+
+    Sejam  e  vetores em um plano cujo ponto O é origem comum a ambos. Ao vetor  é permitido girar em torno de O, de modo que define um ângulo  com . O produto escalar entre  e , representado pela notação , é o valor numérico . O produto vetorial entre  e , representado pela notação , é o vetor (a y b z -a z b y )  + (a z b x -a x b z )  + (a x b y -a y b x )  que possui módulo .
+     Considere os gráficos seguintes:
+     
+
+    Fonte: Elaborada pelo autor.
+    Os valores numéricos dos produtos  e  podem ser representados, em função de , respectivamente, pelos gráficos:
+    	
+    	I e II.
+    	
+    	II e I.
+    	
+    	IV e III.
+    	
+    	IV e V.
+    	
+    	V e IV.
+     
+
+Resposta C
+
+Resposta correta. Justificativa: As variações numéricas dos produtos escalar e vetorial
+entre   e  são, respectivamente, cossenoidais ou senoidais. Ambas as variações
+possuem amplitude 2ab, considerando-se que   = a e   = b e, portanto, estão
+representados pelos gráficos IV e III.
+
+ 
+Pergunta 7
+
+    Uma espécie de formiga registra os movimentos em um sistema mental de coordenadas e soma deslocamentos em relação a um sistema de eixos XY. Considere que uma delas executa movimentos de acordo com o desenho superior. Os vetores  representam os deslocamentos parciais a partir do formigueiro. A posição final da formiga também está indicada. O desenho inferior sumariza os deslocamentos.
+     
+    Fonte: Elaborada pelo autor.
+     
+    De acordo com o enunciado e apoiado pela figura apresentada, analise as asserções a seguir e a relação proposta entre elas.
+    I. O vetor  representa a trajetória integral da formiga.
+    PORQUE
+    II. O vetor  possui origem em (0, 0) e término na posição final.
+     
+    A seguir, assinale a alternativa correta.
+    	
+    	A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+    	
+    	As asserções I e II são proposições falsas.
+    	
+    	As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+    	
+    	As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+    	
+    	A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.
+
+Resposta B
+
+esposta correta. Justificativa: O vetor deslocamento   possui origem nas coordenadas em que o movimento de um corpo tem início e término 
+na posição final do corpo em análise. Ele representa a soma dos deslocamentos parciais e, geralmente, não possui qualquer relação com a 
+trajetória real do corpo estudado. 
+
+  
+Pergunta 8
+
+    Um campo de forças, ou campo vetorial, é uma função que associa um vetor a cada ponto de coordenadas (x, y, z). Quando os valores são somente numéricos, o campo é denominado escalar. Seja, então, um campo de forças F:  definido por .
+     
+    Considere as figuras a seguir:
+
+    Fonte: Elaborada pelo autor.
+     
+    Qual delas representa o campo vetorial F?
+    	
+    	V.
+    	
+    	I.
+    	
+    	IV.
+    	
+    	III.
+    	
+    	II.
+
+Resposta C
+
+Resposta correta. Justificativa: O módulo da função vetorial F decai segundo o inverso da
+distância em relação à origem do sistema de coordenadas, ou seja,   pois 
+ = , em que d é o valor da distância
+do ponto (x, y), em relação ao ponto (0, 0). Como o vetor F é anti-horário para qualquer
+coordenada (x, y), a orientação do campo de forças F é anti-horário.
+
+ 
+Pergunta 9
+
+    Dados dois vetores, e, o produto escalar entre eles é representado e definido por , em que  é o ângulo subentendido entre eles. Suponha os pontos de coordenadas P(10k, 10, 0), Q(10k -1, 20K, 20) e R(10, 30, -10) em um sistema de eixos cartesianos.
+    Com base no exposto, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+    I. (   ) Os pontos P, Q e R são distintos para qualquer k.
+    II. (   ) Os pontos P, Q e R definem um triângulo.
+    III. (   ) Se k = 1, o triângulo é retângulo no vértice P.
+    IV. (   ) Se k = 1, a área do triângulo é aproximadamente 500 u.a.
+     
+    A seguir, assinale a alternativa que apresenta a sequência correta.
+    	
+    	V, V, F, V.
+    	
+    	F, V, V, V.
+    	
+    	V, V, V, V.
+    	
+    	V, F, V, V.
+    	
+    	V, V, V, F.
+
+Resposta E
+
+Resposta correta. Justificativa: Não há valor de k para o qual  e 
+ e   o que implica que os pontos P, Q e R são distintos e
+três pontos distintos em R 3 definem um triângulo. Se k = 1 ⇒  (-1, 10, 20) 
+ (0, 20, -10) = 0 cuja conclusão é a de que os vetores são ortogonais entre si e, portanto,
+o triângulo é retângulo em P, a sua área pode ser calculada: Área =  u.a
+
+
+Pergunta 10
+
+    Duas partículas movem-se, linearmente e com velocidades constantes, em um plano, em que o ponto O é origem de um sistema de coordenadas cartesiano. A velocidade da partícula 1 possui módulo  = 1 m/s, inclinação de 45º, e a velocidade da partícula 2 é . Em t = 0 s, a partícula 1 dista 20 m de , horizontal, e a partícula 2 ocupa a mesma coordenada x que a partícula 1.
+     
+     
+    Fonte: Elaborada pelo autor.
+     
+    A partir do exposto, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+    I. (  ) A posição da partícula 1 pode ser definida por:
+    II. (  ) A posição da partícula 2 pode ser definida por:
+    III. (  ) Existe um momento t em que as partículas 1 e 2 chocam-se entre si.
+    IV. (  ) As partículas 1 e 2 atingem o ponto de coordenada x = 0 em instantes diferentes.
+     
+    A seguir, assinale a alternativa que apresenta a sequência correta.
+    	
+    	F, V, F, F.
+    	
+    	V, V, V, F.
+    	
+    	V, V, F, F.
+    	
+    	V, F, F, F.
+    	
+    	V, V, F, V. 
+    	
+Resposta E
+
+
